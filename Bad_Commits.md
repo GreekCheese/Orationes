@@ -6,4 +6,4 @@
 
 <code>[Speech7](https://github.com/GreekCheese/Orationes/commit/1e7cb946f73dffba0407e28b13a5665f021a7c2e)</code>
 
-<code>[Speech2](https://github.com/GreekCheese/Orationes/pull/684/commits/f61c8cfa8b00a0e2d4fce599765b826a305937c0)
+<code>[Speech2](https://github.com/GreekCheese/Orationes/pull/684/commits/f61c8cfa8b00a0e2d4fce599765b826a305937c0)</code>
